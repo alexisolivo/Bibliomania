@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Bibliomania</string>
-    <string name="brand">La Marca</string>
+    <string name="brand">Bibliomania</string>
     <string name="username">Usuario</string>
     <string name="cancelar">Cancelar</string>
-    <string name="new_user">Nuevo usuario</string>
+    <string name="new_user">¿Nuevo usuario?</string>
 </resources>
